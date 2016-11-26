@@ -1,0 +1,7 @@
+<svg width="700" height="300"  xmlns="http://www.w3.org/2000/svg">
+<rect width="700" height="300" fill="blue" />
+<circle cx="200" cy="150" r="100" fill="yellow" style="stroke-width:4px; stroke:rgb(58,94,19);" />
+<circle cx="170" cy="120" r="10" fill="grey" style="stroke-width:4px; stroke:rgb(58,94,19);" />
+<circle cx="230" cy="120" r="10" fill="grey" style="stroke-width:4px; stroke:rgb(58,94,19);" />
+<path d="M 170, 190 C 180,210 220,210 230,190" style="stroke-width:4px; stroke:rgb(58,94,19);" />
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700px" height="300px"  xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 700 300">
+
+<defs id="svgEditorDefs">
+
+<linearGradient gradientUnits="objectBoundingBox" id="S1" spreadMethod="pad" x1="0%" x2="100%" y1="0%" y2="0%"><stop offset="0%" stop-color="lightblue"/><stop offset="100%" stop-color="#ef5b2b"/></linearGradient>
+
+<linearGradient gradientUnits="objectBoundingBox" id="S2" spreadMethod="pad" x1="0%" x2="100%" y1="0%" y2="100%"><stop offset="0%" stop-color="black"/><stop offset="100%" stop-color="white"/></linearGradient>
+</defs>
+
+
+<rect id="svgEditorBackground" x="0" y="0" width="700" height="300" style="fill: none; stroke: none;"/>
+
+
+<rect width="700" height="300" fill="blue"/>
+
+
+<circle cx="200" cy="150" r="100" fill="yellow" style="stroke-width:4px; stroke:rgb(58,94,19);"/>
+
+
+<circle cx="170" cy="120" r="10" fill="url(#S2)" style="stroke-width:4px; stroke:rgb(58,94,19);"/>
+
+
+<circle cx="230" cy="120" r="14.9453" fill="url(#S1)" style="stroke-width:4px; stroke:rgb(58,94,19);" />
+
+
+<path d="M170,190C186.83760683760687,224.1025641025641,238.37606837606845,215.5555555555556,230,190" style="stroke-width:4px; stroke:rgb(58,94,19);"/>
+</svg>
